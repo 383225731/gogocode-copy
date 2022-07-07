@@ -3,6 +3,15 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
 
+afadfdfsd
+
+新加的test2分支
+
+这里是分支testBranch，用来测试merge
+
+
+
+
 ## What is GoGoCode?
 
 [中文 README](README-cn.md)
